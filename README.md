@@ -37,8 +37,3 @@ sudo nano index.html
 
 ---
 
-## 👨‍💻 Autor
-
-**Brendon Pereira Gomes**  
-[LinkedIn](https://www.linkedin.com/in/brendon-pereira-gomes) | [GitHub](https://github.com/brendonp)
-
